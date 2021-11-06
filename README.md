@@ -1,6 +1,6 @@
 # ChibiEditor Android
 
-### Version mobile de ChibiEditor, créé par Rémy Trash et recodé pour Android par Thibaulthe.
+### Version mobile de ChibiEditor, créée par Rémy Trash et recodée pour Android par Thibaulthe.
 
 
 ## ⚠️ Cette version de ChibiEditor est actuellement en pause. Nous vous informerons (sur Discord, ou YouTube) lorsqu'elle sera reprise.
